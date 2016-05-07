@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Alphabet library">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Alphabet library" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/bin/HelloWorld.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/lib/sphinx4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/lib/jsapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/lib/tags.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Alphabet library/sphinx4-1.0beta6-bin/lib/jsapi-1.0-base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Alphabet library" recursive="false" />
+  </library>
+</component>
